@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url(11272-party-popper.gif)
+}
+
+#Birthaday {
+    font-variant: small-caps;
+    font-size: 70px;
+    color: navy;
+}
+#para {
+    font-variant: small-caps;
+    font-size:20px;
+    color: navy;
+}
+#papa {
+    font-variant: small-caps;
+    font-size: 70px;
+    color: navy;
+}
+#img1 {height: 300px;}
